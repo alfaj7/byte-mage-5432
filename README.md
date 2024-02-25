@@ -7,8 +7,7 @@ This is an colaborative project, team of 5 members during our construct week. Ob
 Frontend
 
 ## Deplolyed App
-Frontend: https://deployed-site.whatever
-
+Frontend: 
 
 ## Directory Structure
 figma/
