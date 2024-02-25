@@ -7,6 +7,7 @@ body {
     width: 1920px;
     height: 760px;
     background-image: url(./media/header.png);
+    position: relative;
 
     div>p {
         color: gray;
@@ -76,4 +77,165 @@ body {
         }
 
     }
+
+    #inner_container {
+        display: flex;
+        gap: 20px;
+
+    }
+
+    #add_container {
+        width: 550px;
+        height: 750px;
+        padding-top: 45px;
+        padding-left: 300px;
+        position: relative;
+
+
+        p {
+            width: 338.78px;
+            height: 18.13px;
+            padding-top: 30px;
+            padding-left: 15px;
+            font-family: Inter;
+            font-size: 15px;
+            font-weight: 400;
+            line-height: 28px;
+            letter-spacing: 0em;
+            text-align: left;
+
+        }
+
+        h1 {
+            width: 444.47px;
+            height: 223px;
+            top: 44.13px;
+            padding-bottom: 0px;
+            left: 15px;
+            font-family: Inter;
+            font-size: 60px;
+            font-weight: 600;
+            line-height: 72px;
+            letter-spacing: 0em;
+            text-align: left;
+
+        }
+        // span {
+        //     width: 214px;
+        //     height: 23px;
+        //     margin-top: 41.13px;
+        //     padding-left: 75px;
+
+        // }
+
+        .item1 {
+            width: 768px;
+            height: 80px;
+            top: 324.13px;
+            padding: 10px 10px 10px 10px;
+            border-radius: 200px;
+            background: #FFFFFF;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            .b {
+                width: 224.34px;
+                height: 50px;
+                top: 5px;
+                padding-left: 10px;
+                padding: 0px 0.98px 0px 0px;
+                display: flex;
+
+
+            }
+
+            .b1 {
+                width: 20px;
+                height: 20px;
+                padding: 15px 14.8px 15px 15px;
+                background: #EB662B0D;
+                border-radius: 50%;
+
+            }
+
+            .b2 {
+                width: 128.36px;
+                height: 43.59px;
+                padding-top: 3.2px;
+                padding-left: 60px;
+                padding: 0px 0px 1.59px 0px;
+
+                h5 {
+                    margin-top: 0px;
+                    margin-bottom: 0px;
+                    font-family: Inter;
+                    font-size: 15px;
+                    font-weight: 500;
+                    line-height: 24px;
+                    letter-spacing: 0em;
+                    text-align: left;
+                    margin-left: 13px;
+
+                }
+
+                p {
+                    width: 128.56px;
+                    height: 18px;
+                    padding-top: 0px;
+                    margin-top: 0px;
+                    font-family: Inter;
+                    font-size: 14px;
+                    font-weight: 400;
+                    line-height: 20px;
+                    letter-spacing: 0em;
+                    text-align: left;
+
+                }
+
+            }
+        }
+
+
+
+
+    }
+
+    #img1 {
+        width: 340px;
+        height: 420px;
+        margin-top: 125px;
+        margin-left: 885.02px;
+        position: absolute;
+
+    }
+
+    #img2 {
+        width: 340px;
+        height: 750px;
+        margin-top: 125px;
+        margin-left: 1249.02px;
+        position: absolute;
+
+    }
+
+    #img3 {
+        width: 340px;
+        height: 250px;
+        margin-top: 555px;
+        margin-left: 885.02px;
+        position: absolute;
+    }
+
+    #brands {
+        width: 1290px;
+        height: 30px;
+        margin-top: 215px;
+        margin-left: 315px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+    }
+
 }
