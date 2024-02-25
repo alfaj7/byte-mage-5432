@@ -1,0 +1,88 @@
+.blue-container {
+    background-color: #05073C;
+    padding-bottom: 10px;
+  
+    .parent {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 5px 300px 105px 300px;
+  
+      .box {
+        margin: 0px 15px;
+  
+        p {
+          width: 315px;
+          color: white;
+          font-size: 17px;
+        }
+      }
+    }
+  
+    .text {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: white;
+      padding: 110px 170px 0px 170px;
+  
+      .text-1 {
+        font-size: 29px;
+        font-weight: 700;
+      }
+  
+      .text-2 {
+        font-size: 14px;
+        font-weight: 400;
+      }
+    }
+  
+    div img {
+      width: 409.98px;
+      height: 299.98px;
+      top: 95px;
+      left: 15px;
+    }
+  }
+  
+  .white-container {
+    .parent2 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 5px 300px 105px 300px;
+  
+      a {
+        flex-wrap: wrap;
+        text-decoration: none;
+        cursor: pointer;
+        color: black;
+        font-size: 14.41px;
+        font-weight: 400;
+        margin: 13.12px;
+        padding: 30px 1px 30px 10px;
+        gap: 4px;
+      }
+    }
+  
+    .popular {
+      display: flex;
+      margin-left: 320px;
+      align-items: center;
+  
+      #text-2 {
+        margin-left: 20px;
+        color: #5b5858;
+        font-size: 30px;
+        font-weight: 700;
+      }
+  
+      #text-1 span {
+        border-bottom: 2px solid black;
+        font-weight: 700;
+        padding: 6px;
+        font-size: 29px;
+      }
+    }
+  }
+  
