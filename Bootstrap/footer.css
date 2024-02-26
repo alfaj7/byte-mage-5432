@@ -16,7 +16,7 @@
     display: flex;
     flex-direction: column;
     padding-top: 50px;
-    padding-left: 125px;
+    padding-left: 15px;
 }
 #f1-l-p1{
     font-size: 1.25rem;
@@ -69,9 +69,9 @@
 #lang>ul>li>a{
     text-decoration: none;
 }
-#lang>ul>li{
+/* #lang>ul>li{
     padding: 7px 50px 7px 0px;
-}
+} */
 .first{
     color: #212121;
     font-family: ReithSans,Arial,Helvetica,freesans,sans-serif;
