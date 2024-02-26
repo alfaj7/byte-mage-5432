@@ -34,4 +34,45 @@ Frontend: https://65dc9edc9b76250099b86363--sparkling-rabanadas-46fd04.netlify.a
 HTML
 CSS
 BOOTSTRAP
+------------------------------------
+
+# FIGMA
+
+## Introduction
+
+The objective of a travel app can vary depending on its specific features and target audience, but generally, travel apps aim to enhance the overall travel experience by providing convenient access to information, tools, and services related to travel. Some common objectives of travel apps include:
+
+## Project Type
+Frontend
+
+## Deplolyed App
+Frontend: https://65db763ec560640845ba2da8--remarkable-gecko-cf704e.netlify.app/
+
+## Directory Structure
+│
+├──components
+│       ├── styles.css.map
+|       ├── style.scss
+|       └── styles.css 
+├── public
+│    └── index.html
+│  
+├── Pictures
+│    └── media
+│         └── All images
+│
+└── README.md
+
+## Explanation of each directory:
+
+ public: This directory contains static files like the main index.html file and images.
+ picture: contain all the images of the projects.
+ README.md: This file contains a description of the project, including how to run and build it.
+
+## Technology Stack
+HTML
+CSS
+SASS
+
+
 
