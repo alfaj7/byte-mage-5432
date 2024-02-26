@@ -7,15 +7,31 @@ This is an colaborative project, team of 5 members during our construct week. Ob
 Frontend
 
 ## Deplolyed App
-Frontend: 
+Frontend: https://65dc9edc9b76250099b86363--sparkling-rabanadas-46fd04.netlify.app/ 
 
 ## Directory Structure
-figma/
-├─ index.html/
-│  ├─ ...
+│
+├──components
+│       ├── bootstrap links
+|       ├── JS links
+|       └── footer.css 
+├── public/
+│    └── index.html
+│  
+├── Pictures
+│    └── media
+│         └── All images
+│
+└── README.md
 
+## Explanation of each directory:
 
+ public: This directory contains static files like the main index.html file and images.
+ picture: contain all the images of the projects.
+ README.md: This file contains a description of the project, including how to run and build it.
 
 ## Technology Stack
+HTML
+CSS
+BOOTSTRAP
 
-- SASS
