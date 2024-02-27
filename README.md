@@ -34,6 +34,8 @@ Frontend: https://65dc9edc9b76250099b86363--sparkling-rabanadas-46fd04.netlify.a
 HTML
 CSS
 BOOTSTRAP
+ d2
+
 ------------------------------------
 
 # FIGMA
@@ -75,4 +77,5 @@ CSS
 SASS
 
 
+ main
 
